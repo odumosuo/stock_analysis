@@ -1,4 +1,4 @@
-# Analysis of Tesla and GameStop stock prices and company revenue
+# Analysis of Tesla and GameStop stock prices and revenue
 ## Description
 This project explores the financial world of Tesla and GameStop through our Python-powered stock price analysis and interactive dashboard. The project offers an analysis of stock prices, correlating them with the respective company revenues for both Tesla and GameStop. The data comprises of historical stock price data using the Yahoo Finance API and web scraping techniques to ensure comprehensive and accurate information. Information is displayed with an interactive dashboard, allowing you to visualize and understand the intricate relationship between stock prices and company revenues.
 
